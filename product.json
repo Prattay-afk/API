@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Classic White Sneakers",
+    "price": 89.99,
+    "image": "https://images.unsplash.com/photo-1528701800489-565f49eae977?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Sporty Red Sneakers",
+    "price": 129.99,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Modern Black Sneakers",
+    "price": 99.99,
+    "image": "https://images.unsplash.com/photo-1506157786151-b8491531f063?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Vintage Canvas Sneakers",
+    "price": 79.99,
+    "image": "https://images.unsplash.com/photo-1519741494257-c6ab4715fddb?auto=format&fit=crop&w=600&q=80"
+  },
+   {
+    "id": 5,
+    "name": "Bold Blue Sneakers",
+    "price": 115.00,
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Trendy Grey Sneakers",
+    "price": 105.49,
+    "image": "https://images.unsplash.com/photo-1521334884684-d80222895322?auto=format&fit=crop&w=600&q=80"
+  }
+]
